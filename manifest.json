@@ -1,0 +1,6 @@
+{
+    "name": "buy-green",
+    "description": "Enlightens user with estimated enviornmental impact of their Amazon order",
+    "version": "1.0",
+    "manifest_version": 3
+}
